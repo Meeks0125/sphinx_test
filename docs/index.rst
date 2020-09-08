@@ -8,9 +8,9 @@ Welcome to SphinxTest's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
-
+   a/index
+   b/index
 
 Indices and tables
 ==================
