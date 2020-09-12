@@ -17,6 +17,6 @@ class B1:
     def get_name(self):
         """get name of the B1 class.
 
-        :return name of the class.
+        :return: name of the class.
         """
         return self._name

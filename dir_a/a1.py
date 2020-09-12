@@ -17,6 +17,13 @@ class A1:
     def get_name(self):
         """get name of the A1 class.
 
-        :return name of the class.
+        :return: name of the class.
         """
         return self._name
+
+    def calcuate(self, a):
+        """calculate.
+        :param a: the value
+        :return: calculated value
+        """
+        return a * 2

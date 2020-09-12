@@ -17,6 +17,6 @@ class A2:
     def get_attribute(self):
         """get attribute of the A2 class.
 
-        :return attribute of the class.
+        :return: attribute of the class.
         """
         return self._attribute
