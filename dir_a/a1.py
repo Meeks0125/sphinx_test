@@ -7,7 +7,8 @@
 
 
 class A1:
-    """This class defines the concept of A1, which represents a1 class.
+    """
+    This class defines the concept of A1, which represents a1 class.
 
     :param name: Name of the class
     """
@@ -15,14 +16,16 @@ class A1:
         self._name = name
 
     def get_name(self):
-        """get name of the A1 class.
+        """
+        get name of the A1 class.
 
         :return: name of the class.
         """
         return self._name
 
     def calcuate(self, a):
-        """calculate.
+        """
+        calculate.
         :param a: the value
         :return: calculated value
         """

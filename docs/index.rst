@@ -9,8 +9,7 @@ Welcome to SphinxTest's documentation!
 .. toctree::
    :maxdepth: 2
 
-   a/index
-   b/index
+   modules
 
 inline markup *emphasis text* **strong text** ``code sample``
 ``a = b + c``
